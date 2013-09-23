@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Huge test going on 
 ANother test, let's see if it auto-updates!
 Test one
+=======
+Huge test going on 
+>>>>>>> parent of 86d6e8a... do it
